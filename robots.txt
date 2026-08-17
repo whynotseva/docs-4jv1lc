@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-17098m.antam89.site/sitemap.xml
